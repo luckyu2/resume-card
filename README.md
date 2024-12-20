@@ -1,6 +1,6 @@
 ### 当前预览用的Token资源即将过期,邀您续杯IntroCard,这将有利于预览页面维持正常运转😊
 
-我正在BigModel.cn上用智谱API打造新一代应用服务，通过我的专属邀请链接注册即可获得额外GLM-4-Air 2000万Tokens好友专属福利，期待和你一起在BigModel上探索AGI时代的应用；链接：https://www.bigmodel.cn/invite?icode=mKVyQP6ELLRJEgER4KdvX%2F2gad6AKpjZefIo3dVEQyA%3D
+我正在BigModel.cn上用智谱API打造新一代应用服务，通过我的专属邀请链接注册即可获得额外GLM-4-Air 2000万Tokens好友专属福利，期待和你一起在BigModel上探索AGI时代的应用；链接：https://www.bigmodel.cn/invite?icode=CqixFngebQJzeinIFuUcAJmwcr074zMJTpgMb8zZZvg%3D
 
 ## 这是啥?
 
