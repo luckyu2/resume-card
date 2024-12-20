@@ -32,12 +32,7 @@ npm run dev
 ## 部署平台
 推荐Vercel https://vercel.com/
 
-## 交个朋友?
 
-我的Twitter:https://x.com/sh_awai
-
-WeChat:
-![wechat](wechat.jpg)
 
 
 
